@@ -7,20 +7,6 @@ A machine learning-powered web application that predicts food delivery time base
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-F7931E.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Details](#model-details)
-- [Data Processing](#data-processing)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project implements a **Random Forest Regression** model to predict food delivery times with high accuracy. The application features an interactive web interface built with Streamlit, allowing users to input various delivery parameters and receive instant time predictions.
